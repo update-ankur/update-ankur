@@ -7,3 +7,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=update-ankur&hide=Cpp&layout=compact)](https://github.com/update-ankur/github-readme-stats)
 
 </p>
+
+![](https://komarev.com/ghpvc/?username=update-ankur&color=dc143c)
